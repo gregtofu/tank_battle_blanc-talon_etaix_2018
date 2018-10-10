@@ -1,2 +1,2 @@
-# tank_battle_blanc-talon_etaix_2018
-Github du projet C (3A)
+# TANK BATTLE
+Github du projet C (3A) de Théodore BLANC-TALON et Vincent ETAIX
